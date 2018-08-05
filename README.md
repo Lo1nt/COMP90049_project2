@@ -10,3 +10,12 @@ the eva.py count tokens for each line
 
 the re-eva.py help reconstruct the dataset for screenshot
 
+
+
+Dataset: 
+    Due to the term of use, the whole data set is not avaliable.
+    
+    the project make use of a most100.csv file which contains top 100 frequency tokens.
+    the test and train data show frequency of each token.
+    
+    
